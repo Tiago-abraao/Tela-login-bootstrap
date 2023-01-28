@@ -1,0 +1,71 @@
+body {
+
+  background-color: aqua;
+}
+
+
+
+.container {
+
+   
+    
+    margin-top: 150px;
+    
+    
+
+}
+
+
+h2 {
+
+
+  margin-top: 19px;
+}
+.col-md-5 {
+
+  
+  margin-left: 300px;
+  background-color: white;
+  border-radius: 15px;
+  box-shadow: .7px 10px 15px black;
+  
+  
+
+}
+
+#form input{
+
+    box-shadow: .5px 10px 15px white;
+    border: none;
+    border-radius: 0;
+    margin: 25px auto;
+  padding: 25px;
+    border-bottom: 1px solid gray;
+    padding-bottom: 5px;
+    background-color: white;
+    
+
+}
+
+#btn {
+
+margin-top: 15px;
+
+
+}
+
+.link {
+
+  margin-top: 15px;
+  margin-bottom: 30px;
+ 
+}
+
+.link a {
+
+  text-decoration: none;
+}
+ .link a:hover {
+
+  color: blue;
+}
